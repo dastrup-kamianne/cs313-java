@@ -1,6 +1,19 @@
+html{
+    background-color: lavender;
+}
 body {
-    background-color: cadetblue;
-    color: white;
-    font-size: 16px;
-    font-family: sans-serif;
+    width: 600px;
+    background-color: #fff;
+    font-family: Tahoma, Geneva, sans-serif;
+    border: solid 4px lightblue;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    height: 100%;
+}
+
+pre, #dischead, #adisc {
+    padding-left: 150px;
 }
